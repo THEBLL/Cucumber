@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="871ae6b1-e7b1-4df5-abc7-e8d1bc4d1697" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Cucember/src/test/java/pages/WebUniPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Cucember/src/test/java/pages/WebUniPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cucember/src/test/java/runners/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Cucember/src/test/java/runners/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cucember/src/test/java/utilities/ConfigReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Cucember/src/test/java/utilities/ConfigReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cucember/src/test/java/utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Cucember/src/test/java/utilities/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cucember/src/test/resources/features/US1006_ScenarioOutlineIleGoogleArama.feature" beforeDir="false" afterPath="$PROJECT_DIR$/../Cucember/src/test/resources/features/US1006_ScenarioOutlineIleGoogleArama.feature" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Cucember" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2XnaUIDXZM0A7Qn2cgxrCXhwUis" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/bilal/IdeaProjects/Cucember/src/test/java/pages&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bilal\IdeaProjects\Cucember\src\test\java\pages" />
+      <recent name="C:\Users\bilal\IdeaProjects\Cucember\src\test\java\utilities" />
+      <recent name="C:\Users\bilal\IdeaProjects\Cucember" />
+      <recent name="C:\Users\bilal\IdeaProjects\Cucember\src\test\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="utilities" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Runner">
+    <configuration name="Scenario: TC09 ilk urun testi" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/../Cucember/src/test/resources/features/US1005_ilkUrunTest.feature" />
+      <option name="GLUE" value="stepdefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Cucember." />
+      <option name="NAME_FILTER" value="^TC09 ilk urun testi$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^TC09 ilk urun testi$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: TC09 ilk urun testi" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: TC10 google'da listedeki urunler aratilabilmeli" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/../Cucember/src/test/resources/features/US1006_ScenarioOutlineIleGoogleArama.feature" />
+      <option name="GLUE" value="stepdefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Cucember." />
+      <option name="NAME_FILTER" value="^TC10 google\'da listedeki urunler aratilabilmeli$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^TC10 google\'da listedeki urunler aratilabilmeli$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: TC10 google'da listedeki urunler aratilabilmeli" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: TC11 qualitydemy sayfasina yanlis bilgilerle giris yapilamaz" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/../Cucember/src/test/resources/features/US1007_ScenarioOutlineIleNegatifLoginTesti.feature" />
+      <option name="GLUE" value="stepdefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Cucember." />
+      <option name="NAME_FILTER" value="^TC11 qualitydemy sayfasina yanlis bilgilerle giris yapilamaz$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^TC11 qualitydemy sayfasina yanlis bilgilerle giris yapilamaz$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: TC11 qualitydemy sayfasina yanlis bilgilerle giris yapilamaz" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: TC12 kullanci bekleme islemlerini yapar" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/../Cucember/src/test/resources/features/US1008_HerokuAppAddElement.feature" />
+      <option name="GLUE" value="stepdefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Cucember." />
+      <option name="NAME_FILTER" value="^TC12 kullanci bekleme islemlerini yapar$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^TC12 kullanci bekleme islemlerini yapar$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: TC12 kullanci bekleme islemlerini yapar" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Cucember." />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runners" />
+      <option name="MAIN_CLASS_NAME" value="runners.Runner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Runner" />
+        <item itemvalue="Cucumber Java.Scenario: TC12 kullanci bekleme islemlerini yapar" />
+        <item itemvalue="Cucumber Java.Scenario: TC11 qualitydemy sayfasina yanlis bilgilerle giris yapilamaz" />
+        <item itemvalue="Cucumber Java.Scenario: TC10 google'da listedeki urunler aratilabilmeli" />
+        <item itemvalue="Cucumber Java.Scenario: TC09 ilk urun testi" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="871ae6b1-e7b1-4df5-abc7-e8d1bc4d1697" name="Changes" comment="" />
+      <created>1699267311395</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699267311395</updated>
+    </task>
+    <servers />
+  </component>
+</project>
