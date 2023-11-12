@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="871ae6b1-e7b1-4df5-abc7-e8d1bc4d1697" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Cucember/src/test/java/pages/WebUniPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Cucember/src/test/java/pages/WebUniPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cucember/src/test/java/runners/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Cucember/src/test/java/runners/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cucember/src/test/java/utilities/ConfigReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Cucember/src/test/java/utilities/ConfigReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cucember/src/test/java/utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Cucember/src/test/java/utilities/Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cucember/src/test/resources/features/US1006_ScenarioOutlineIleGoogleArama.feature" beforeDir="false" afterPath="$PROJECT_DIR$/../Cucember/src/test/resources/features/US1006_ScenarioOutlineIleGoogleArama.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cucember/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cucember/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cucember/target/cucumber-reports-html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cucember/target/cucumber-reports.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cucember/target/json-reports/cucumber.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cucember/target/xml-report/cucumber.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
